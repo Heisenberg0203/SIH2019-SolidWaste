@@ -6,7 +6,7 @@ On-demand Waste Collection Service along with collection, transportation, segreg
 
 This project is honored as **Winner for Best IOT based Smart Waste Management System** in Smart India Hackathon 2019.
 
-###Authors:
+### Authors:
 
 1. Rushikesh Jachak (Backend Developer)
 
